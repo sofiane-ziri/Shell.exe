@@ -1,0 +1,2 @@
+exec brew update
+
